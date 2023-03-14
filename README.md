@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm Tarun Prasat</h1>
+<h1 align="center">Hi 👋, I'm Tarunprasat</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunprasat&label=Profile%20views&color=0e75b6&style=flat" alt="tarunprasat" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarunprasat" alt="tarunprasat" /></a> </p>
 
-- 🔭 I’m currently working on **Data Structures and Algorithms**
+- 🔭 I’m currently working on **Data Science, Front-end Web Development and OOPS in JAVA**
 
-- 👯 I’m looking to collaborate on **Coding Challenges**
-
-- 🤝 I’m looking for help with **Competitive Programming**
+- 👯 I usually code in **C, C++**
 
 - 📫 How to reach me **tarunprasatas@gmail.com**
 
