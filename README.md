@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Data Science, Front-end Web Development and OOPS in JAVA**
 
-- 👯 I usually code in **C, C++**
+- 👯 I code in **C, C++**
 
 - 📫 How to reach me **tarunprasatas@gmail.com**
 
